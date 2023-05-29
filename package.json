@@ -1,0 +1,25 @@
+{
+  "name": "etnik",
+  "version": "1.0.0",
+  "description": "etnik's dev package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etnik2002/etniks-package.git"
+  },
+  "keywords": [
+    "etnik"
+  ],
+  "author": "Etnik Zeqiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etnik2002/etniks-package/issues"
+  },
+  "homepage": "https://github.com/etnik2002/etniks-package#readme",
+  "dependencies": {
+    "etnik": "^1.0.0"
+  }
+}
