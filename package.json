@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/etnik2002/etniks-package#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "etnik": "^1.0.0"
   }
 }

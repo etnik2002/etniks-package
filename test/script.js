@@ -1,3 +1,3 @@
 const etnik = require("etnik");
 
-console.log("etnik()");
+console.log(etnik());
